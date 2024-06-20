@@ -1,9 +1,9 @@
-<div align="center" style="display: inline-block;">
+<div align="center">
   <a href="https://github.com/BeshoyWill">
     <img src="./header.gif"  width="100%" alt="Beshoy William">
   </a>
   <br/>
-  <div style="position: absolute; text-align: center; left: 50%; transform: translateX(-50%); font-size: 1rem; padding-top: 20px;">
+  <div >
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=33&duration=2800&pause=2000&color=5CFF71&center=true&vCenter=true&width=970&lines=👋🏻 +Beshoy+William+Boshra+(BWB)+ 👋🏻" alt="Typing SVG"/>
     <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=33&duration=2800&pause=2000&color=5CFF71&center=true&vCenter=true&width=970&lines=Welcome%2C+🤝+I+promise+you+will+be+happy+here+😉👍" align="middle" alt="Welcome, I promise you will be happy here" width="100%"/>
@@ -14,11 +14,13 @@
   </a>
   </div>
   
-  <img src="./line.gif" style="position: relative; width: 100%; height: 30%; z-index: -1; bottom: 20px;">
+  <br/>  <br/>
+  <img src="./linewave.gif" width="100%" height="5px">
 
+  <br/>  <br/>
 </div>
 
-<div style="background-color: black; display: inline-block; position: relative; top: -40px" align="center">
+<div align="center">
   
   # About Me 
   
