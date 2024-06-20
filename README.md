@@ -4,9 +4,13 @@
   </a>
   <br/>
   <div style="position: absolute; text-align: center; left: 50%; transform: translateX(-50%); font-size: 1rem; padding-top: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=4000&color=5CFF71&background=5CFF1300&random=false&width=435&lines=👋🏻 +Beshoy+William+Boshra+(BWB)+ 👋🏻" alt="Typing SVG"/>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5CFF71&background=5CFF1300&random=false&width=435&lines=+I+am+a+FullStack+.NET+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+;I+have+1%2B+years+of+experience+%F0%9F%93%88" alt="Typing SVG"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=4000&color=5CFF71&background=5CFF1300&random=false&width=435&lines=👋🏻 +Beshoy+William+Boshra+(BWB)+ 👋🏻" alt="Typing SVG"/>
+  </a>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5CFF71&background=5CFF1300&random=false&width=435&lines=+I+am+a+FullStack+.NET+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+;I+have+1%2B+years+of+experience+%F0%9F%93%88" alt="Typing SVG"/>
+  </a>
   </div>
   
   <img src="./line.gif" style="position: relative; width: 100%; height: 30%; z-index: -1; bottom: 20px;">
