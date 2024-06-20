@@ -6,7 +6,7 @@
   <div >
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=33&duration=2800&pause=2000&color=5CFF71&center=true&vCenter=true&width=970&lines=👋🏻 +Beshoy+William+Boshra+(BWB)+ 👋🏻" alt="Typing SVG"/>
-    <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=33&duration=2800&pause=2000&color=5CFF71&center=true&vCenter=true&width=970&lines=Welcome%2C+🤝+I+promise+you+will+be+happy+here+😉👍" align="middle" alt="Welcome, I promise you will be happy here" width="100%"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=33&duration=2800&pause=2000&color=5CFF71&center=true&vCenter=true&width=970&lines=🤝+I+promise+you+will+be+happy+here+😉👍" align="middle" alt="Welcome, I promise you will be happy here" width="100%"/>
   </a>
   
   <a href="https://git.io/typing-svg">
