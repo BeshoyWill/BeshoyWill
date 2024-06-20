@@ -3,7 +3,7 @@
     <img src="./header.gif"  width="100%" alt="Beshoy William">
   </a>
   <br/>
-  <div style="position: absolute; text-align: center; left: 50%; transform: translateX(-50%); font-size: 1rem; padding-top: 20px;">
+  <div>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=4000&color=5CFF71&background=5CFF1300&random=false&width=435&lines=👋🏻 +Beshoy+William+Boshra+(BWB)+ 👋🏻" alt="Typing SVG"/>
   </a>
