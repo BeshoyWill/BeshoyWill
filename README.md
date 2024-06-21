@@ -122,4 +122,7 @@
 
 </div>
 
-![snake gif](https://github.com/BeshoyWill/BeshoyWill/blob/output/github-contribution-grid-snake.svg)
+
+## snake eating my contribution graph
+![snake gif](https://github.com/BeshoyWill/BeshoyWill/blob/output/github-contribution-grid-snake-dark.svg)
+
