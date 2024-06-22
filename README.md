@@ -35,8 +35,8 @@
 
 
 <hr>
-<h1 style="color: ;"></h1>
-${\color{#59f86e}Some \space My Skills \space here}$
+<h1 color=5CFF71></h1>
+<img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=33&duration=2800&pause=2000&color=5CFF71&center=true&vCenter=true&width=970&lines=👋🏻 +My Skills+ 👋🏻" alt="Typing SVG"/>
 
 
 - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#59f86e`
