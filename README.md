@@ -35,7 +35,7 @@
 
 
 <hr>
-<img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=33&duration=2800&pause=2000&color=5CFF71&center=true&vCenter=true&width=970&lines=👋🏻 +Beshoy+William+Boshra+(BWB)+ 👋🏻" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=33&duration=0&pause=2000&color=5CFF71&center=true&vCenter=true&width=970&lines=My Skills" alt="Typing SVG"/>
 <hr>
 
 
