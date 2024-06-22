@@ -74,6 +74,7 @@
 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)](#)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 ![Agile](https://img.shields.io/badge/-Agile-0093D0?logo=agile&logoColor=white&style=flat)
 ![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white&style=flat)
@@ -123,6 +124,6 @@
 </div>
 
 
-## snake eating my contribution graph
+## Watch the snake eating my contribution graph
 ![snake gif](https://github.com/BeshoyWill/BeshoyWill/blob/output/github-contribution-grid-snake-dark.svg)
 
