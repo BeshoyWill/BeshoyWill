@@ -35,7 +35,9 @@
 
 
 <hr>
-<h1 style="color: #59f86e;">My Skills</h1> `#59f86e`
+<h1 style="color: #59f86e;">My Skills</h1>
+
+- `#1589F0`
 
 <br/>  <br/>
 
