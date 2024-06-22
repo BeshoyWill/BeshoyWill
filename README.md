@@ -37,7 +37,8 @@
 <hr>
 <h1 style="color: #59f86e;">My Skills</h1>
 
-- `#1589F0`
+
+- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
 
 <br/>  <br/>
 
