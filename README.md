@@ -35,7 +35,8 @@
 
 
 <hr>
-<h1 style="color: #59f86e;">My Skills</h1>
+<h1 style="color: ;"></h1>
+${\color{#59f86e}Some \space My Skills \space here}$
 
 
 - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#59f86e`
