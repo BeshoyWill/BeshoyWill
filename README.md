@@ -35,10 +35,9 @@
 
 
 <hr>
-<h1 src="font=Kaushan+Script&size=33&duration=2800&pause=2000&color=5CFF71&center=true&vCenter=true&width=970&lines=👋🏻 +My Skills+ 👋🏻" alt="Typing SVG"> Boom</h1>
+<img src="font=Kaushan+Script&size=33&duration=2800&pause=2000&color=5CFF71&center=true&vCenter=true&width=970&lines=👋🏻 +My Skills+ 👋🏻" alt="Typing SVG" />
 <hr>
 
-- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#59f86e`
 
 <br/>  <br/>
 
