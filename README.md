@@ -36,7 +36,7 @@
 
 <hr>
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=33&duration=1&pause=5&color=5CFF71&center=true&vCenter=true&width=970&lines=My Skills" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=33&duration=1&pause=5000&color=5CFF71&center=true&vCenter=true&width=970&lines=My Skills" alt="Typing SVG"/>
   </h1>
 <hr>
 
