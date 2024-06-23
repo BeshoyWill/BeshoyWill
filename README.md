@@ -106,7 +106,7 @@
 
 
 <div align="center">
-  <h1 font-size="40" left="10px">
+  <h1 font-size="40" left="-50px">
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70" />
     Contact Me
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70" />
@@ -127,7 +127,7 @@
     &nbsp;&nbsp;
     </h2>
 
-  
+  <br /><br />
   
 <hr>
   <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=33&duration=1&pause=5000&color=5CFF71&center=true&vCenter=true&width=970&lines=Watch The Snake Eating My Contribution Graph" alt="Typing SVG"/>
