@@ -105,9 +105,11 @@
   <br/>  <br/>
 
 
-<a> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70" /></a>
-<img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=40&duration=1&pause=5000&color=ffffff&center=true&vCenter=true&width=970&lines=Contact Me" alt="Typing SVG"/>
-<a> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70" /></a>
+<div align="center">
+  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70" />
+  <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=40&duration=1&pause=5000&color=ffffff&center=true&vCenter=true&width=970&lines=Contact Me" alt="Typing SVG"/>
+  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70" />
+</div>
 
   <div align="center">
     <h2>
