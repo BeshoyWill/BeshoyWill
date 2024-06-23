@@ -105,9 +105,9 @@
   <br/>  <br/>
 
 
-<a> <img align='center' src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50" /></a>
-# Contact Me
-<a> <img align='center' src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50" /></a>
+<a> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=40&duration=1&pause=5000&color=ffffff&center=true&vCenter=true&width=970&lines=Contact Me" alt="Typing SVG"/>
+<a> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70" /></a>
 
   <div align="center">
     <h2>
@@ -124,9 +124,9 @@
     </h2>
   </div>
 
-<h1>
+<hr>
   <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=33&duration=1&pause=5000&color=5CFF71&center=true&vCenter=true&width=970&lines=Watch The Snake Eating My Contribution Graph" alt="Typing SVG"/>
-</h1>
+</hr>
 
 ![snake gif](https://github.com/BeshoyWill/BeshoyWill/blob/output/github-contribution-grid-snake-dark_green.svg)
 
