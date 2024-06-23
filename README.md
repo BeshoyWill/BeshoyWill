@@ -117,9 +117,9 @@
     &nbsp;&nbsp;
     <a href="https://codepen.io/Beshoy-William-the-selector" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/codepen"  alt="facebook"   width="50" /></a>
     &nbsp;&nbsp;
-    <a href="https://wa.me/201280201069" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/whatsapp"  alt="whatsapp"   width="100%" /></a>
+    <a href="https://wa.me/201280201069" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/whatsapp"  alt="whatsapp"   width="33" /></a>
     &nbsp;&nbsp;
-    <a> <img align='center' src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="10%" /></a>
+    <a> <img align='center' src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="33" /></a>
     </h2>
   </div>
 
