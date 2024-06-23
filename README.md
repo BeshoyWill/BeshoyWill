@@ -85,6 +85,7 @@
 
 # GitHub Stats
 <details align="center">
+  #<summary>Show Me GitHub Stats</summary>
   <table align="center" border="0" cellpadding="0" cellspacing="0">
       <thead>
           <tr>
