@@ -119,7 +119,7 @@
     &nbsp;&nbsp;
     <a href="https://wa.me/201280201069" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/whatsapp"  alt="whatsapp"   width="50" /></a>
     &nbsp;&nbsp;
-    <a> <img align='center' src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" /></a>
+    <a> <img align='center' src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100%" /></a>
     </h2>
   </div>
 
