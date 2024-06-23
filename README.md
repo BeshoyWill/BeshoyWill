@@ -106,7 +106,7 @@
 
 
 <div align="center">
-  <h1 font-size="40">
+  <h1 font-size="35">
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70" />
     Contact Me
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70" />
