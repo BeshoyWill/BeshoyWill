@@ -84,7 +84,7 @@
   <br/>  <br/>
 
 # GitHub Stats
-
+<details align="center">
   <table align="center" border="0" cellpadding="0" cellspacing="0">
       <thead>
           <tr>
@@ -101,7 +101,7 @@
           </tr>
       </thead>
   </table>
-
+</details>
   <br/>  <br/>
 
 # Contact Me
