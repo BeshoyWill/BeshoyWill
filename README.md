@@ -114,15 +114,15 @@
 </div>
 
   <div align="center" padding-left="50px;">
-    <a href="mailto:beshoy.eins@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  alt="Gmail"   width="33" /></a>
+    <a href="mailto:beshoy.eins@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  alt="Gmail"   width="40" /></a>
     &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/beshoy-william-94775730a/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin"  alt="linkedIn"   width="33" /></a>
+    <a href="https://www.linkedin.com/in/beshoy-william-94775730a/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin"  alt="linkedIn"   width="40" /></a>
     &nbsp;&nbsp; 
-    <a href="https://www.facebook.com/profile.php?id=100007533883783" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/facebook"  alt="facebook"   width="33" /></a>
+    <a href="https://www.facebook.com/profile.php?id=100007533883783" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/facebook"  alt="facebook"   width="40" /></a>
     &nbsp;&nbsp;
-    <a href="https://codepen.io/Beshoy-William-the-selector" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/codepen"  alt="facebook"   width="33" /></a>
+    <a href="https://codepen.io/Beshoy-William-the-selector" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/codepen"  alt="facebook"   width="40" /></a>
     &nbsp;&nbsp;
-    <a href="https://wa.me/201280201069" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/whatsapp"  alt="whatsapp"   width="33" /></a>
+    <a href="https://wa.me/201280201069" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/whatsapp"  alt="whatsapp"   width="40" /></a>
     &nbsp;&nbsp;
 
 </div>
