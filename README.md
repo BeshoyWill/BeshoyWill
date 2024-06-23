@@ -128,5 +128,4 @@
 
 ## Watch the snake eating my contribution graph
 ![snake gif](https://github.com/BeshoyWill/BeshoyWill/blob/output/github-contribution-grid-snake-dark.svg)
-![snake animation](https://github.com/BeshoyWill/BeshoyWill/blob/output/github-contribution-grid-snake2.svg)
 
