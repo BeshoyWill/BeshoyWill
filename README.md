@@ -123,9 +123,10 @@
     </h2>
   </div>
 
-## Watch the snake eating my contribution graph
-![snake gif](https://github.com/BeshoyWill/BeshoyWill/blob/output/github-contribution-grid-snake-dark_green.svg)
-
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=33&duration=1&pause=5000&color=5CFF71&center=true&vCenter=true&width=970&lines=Watch The Snake Eating My Contribution Graph" alt="Typing SVG"/>
+  ![snake gif](https://github.com/BeshoyWill/BeshoyWill/blob/output/github-contribution-grid-snake-dark_green.svg)
+</h1>
 </div>
 
 
