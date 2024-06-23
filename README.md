@@ -113,8 +113,7 @@
   </h1>
 </div>
 
-  <div align="center" padding-right="20px;">
-    <h2>
+  <div align="center" padding-left="50px;">
     <a href="mailto:beshoy.eins@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  alt="Gmail"   width="33" /></a>
     &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/beshoy-william-94775730a/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin"  alt="linkedIn"   width="33" /></a>
@@ -125,7 +124,6 @@
     &nbsp;&nbsp;
     <a href="https://wa.me/201280201069" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/whatsapp"  alt="whatsapp"   width="33" /></a>
     &nbsp;&nbsp;
-    </h2>
 
 </div>
 
