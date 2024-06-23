@@ -107,6 +107,7 @@
 
 <div align="center">
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70" />
+  <h1 font-size="40">Contact Me</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=40&duration=1&pause=5000&color=ffffff&center=true&vCenter=true&width=970&lines=Contact Me" alt="Typing SVG"/>
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70" />
 </div>
@@ -129,7 +130,7 @@
   
 <hr>
   <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=33&duration=1&pause=5000&color=5CFF71&center=true&vCenter=true&width=970&lines=Watch The Snake Eating My Contribution Graph" alt="Typing SVG"/>
-</hr>
+<hr>
 
 ![snake gif](https://github.com/BeshoyWill/BeshoyWill/blob/output/github-contribution-grid-snake-dark_green.svg)
 
