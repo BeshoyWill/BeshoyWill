@@ -128,7 +128,3 @@
 
 ## Watch the snake eating my contribution graph
 ![snake gif](https://github.com/BeshoyWill/BeshoyWill/blob/output/github-contribution-grid-snake-dark.svg)
-<img align="center" src="https://github.com/billyeatcookies/billyeatcookies/blob/output/github-contribution-grid-snake-billy.svg" alt="twitter/billyeatcookies" />
-
-<!--img src=https://user-images.githubusercontent.com/70792552/164441644-8ccf3b0d-2431-4a0a-903b-eb2f552cbd46.png-->
-
