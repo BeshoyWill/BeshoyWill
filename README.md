@@ -124,8 +124,9 @@
     <a href="https://wa.me/201280201069" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/whatsapp"  alt="whatsapp"   width="33" /></a>
     &nbsp;&nbsp;
     </h2>
-  </div>
 
+  <br/>  <br/>
+  
 <hr>
   <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=33&duration=1&pause=5000&color=5CFF71&center=true&vCenter=true&width=970&lines=Watch The Snake Eating My Contribution Graph" alt="Typing SVG"/>
 </hr>
