@@ -106,10 +106,11 @@
 
 
 <div align="center">
+  <h1 font-size="40">
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70" />
-  <h1 font-size="40">Contact Me</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=40&duration=1&pause=5000&color=ffffff&center=true&vCenter=true&width=970&lines=Contact Me" alt="Typing SVG"/>
+    Contact Me
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70" />
+  </h1>
 </div>
 
   <div align="center">
