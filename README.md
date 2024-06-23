@@ -113,7 +113,7 @@
   </h1>
 </div>
 
-  <div align="center" padding-left="50px;">
+  <div align="center">
     <a href="mailto:beshoy.eins@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  alt="Gmail"   width="40" /></a>
     &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/beshoy-william-94775730a/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin"  alt="linkedIn"   width="40" /></a>
