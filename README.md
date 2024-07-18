@@ -88,16 +88,16 @@
   <table align="center" border="0" cellpadding="0" cellspacing="0">
       <thead>
           <tr>
-            <td><img src="https://github-readme-stats.vercel.app/api?username=BeshoyWill&show_icons=true&locale=en&theme=tokyonight" alt="Beshoy's GitHub Stats" />               </td>
+<!--             <td><img src="https://github-readme-stats.vercel.app/api?username=BeshoyWill&show_icons=true&locale=en&theme=tokyonight" alt="Beshoy's GitHub Stats" />               </td> -->
             <td><img src="https://streak-stats.demolab.com/?user=BeshoyWill&theme=tokyonight" alt="Beshoy's GitHub Stats" /></td>
           </tr>
           <tr>
               <td> <img src="https://awesome-github-stats.azurewebsites.net/user-stats/BeshoyWill?theme=buefy">             </td>
-              <td>
+<!--               <td>
               <a href="https://github.com/BeshoyWill">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=BeshoyWill&show_icons=true&theme=github_dark&langs_count=8&layout=compact&hide_border=true"/> 
     </a>     
-            </td>
+            </td> -->
           </tr>
       </thead>
   </table>
