@@ -38,6 +38,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=33&duration=1&pause=5000&color=5CFF71&center=true&vCenter=true&width=970&lines=My Favourite Skills" alt="Typing SVG"/>
 <hr>
 
+<br/>  <br/>
+
   <markdown-accessiblity-table><table>
   <tbody><tr>
         <td align="center" width="96">
@@ -69,8 +71,8 @@
       <br>JQuery
     </td>    
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/48a026f4399514afed27e76efb9f48e139a0ba4b613d933a8c7a094dc1da475c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667"><img src="https://camo.githubusercontent.com/48a026f4399514afed27e76efb9f48e139a0ba4b613d933a8c7a094dc1da475c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="icon" width="60" height="60" style="max-width: 100%;" data-canonical-src="https://techstack-generator.vercel.app/react-icon.svg"></a>
-      <br>React
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/48a026f4399514afed27e76efb9f48e139a0ba4b613d933a8c7a094dc1da475c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667"><img src="https://camo.githubusercontent.com/48a026f4399514afed27e76efb9f48e139a0ba4b613d933a8c7a094dc1da475c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="icon" width="60" height="60" style="max-width: 100%;" data-canonical-src="https://skillicons.dev/icons?i=angular"></a>
+      <br>Angular
     </td>
     <td align="center" width="96">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/443891d821db7f31d3f6a2ecff95170e1d8fbb8f3560466c18764f7f136e9d3f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d617a757265"><img src="https://camo.githubusercontent.com/443891d821db7f31d3f6a2ecff95170e1d8fbb8f3560466c18764f7f136e9d3f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d617a757265" width="60" height="60" alt="Azure" data-canonical-src="https://skillicons.dev/icons?i=azure" style="max-width: 100%;"></a>
@@ -117,6 +119,7 @@
   </tr>
 </tbody></table></markdown-accessiblity-table>
 
+<br/>  <br/>
 
 <hr>
     <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=33&duration=1&pause=5000&color=5CFF71&center=true&vCenter=true&width=970&lines=My Skills" alt="Typing SVG"/>
