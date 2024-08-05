@@ -71,7 +71,8 @@
       <br>JQuery
     </td>    
       <td align="center" width="96">
-      <a target="_blank" rel="noopener noreferrer nofollow"><img width="60" height="60" alt="angular" data-canonical-src="https://skillicons.dev/icons?i=angular" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow"><img src="./icons/Angular-Dark.svg"  width="60" height="60" alt="Angular" ></a>
+        <img src="./icons/Angular-Dark.svg"  width="60" height="60" alt="Angular" >
       <br>Angular
     </td>
     <td align="center" width="96">
