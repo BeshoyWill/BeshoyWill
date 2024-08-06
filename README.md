@@ -121,7 +121,7 @@
     </td>
   <td align="center" width="96">
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://angular.io/">
-      <img src="./icons/Angular-Dark.svg" width="48" alt="Angular" style="max-width: 100%;">
+      <img src="https://skillicons.dev/icons?i=angular" width="48" alt="Angular" style="max-width: 100%;">
     </a>
     <br>Angular
   </td>
