@@ -71,6 +71,12 @@
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0418a2bf25601cc5d8fae74f654b10d5734360ff2b1bb3b2fea4bb086baf5586/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/0418a2bf25601cc5d8fae74f654b10d5734360ff2b1bb3b2fea4bb086baf5586/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="icon" width="60" height="60" data-canonical-src="https://techstack-generator.vercel.app/ts-icon.svg" style="max-width: 100%;"></a>
       <br>Typescript
     </td>
+    <td align="center" width="96">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://ts.dev/">
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" height="60" alt="TS" data-canonical-src="https://techstack-generator.vercel.app/ts-icon.svg" style="max-width: 100%;">
+  </a>
+  <br>TypeScript
+</td>
         <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/92b57616aa8c824a491469633dc693341da362ae233bf03e0384cfb9a154ddcf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a7175657279"><img src="https://camo.githubusercontent.com/92b57616aa8c824a491469633dc693341da362ae233bf03e0384cfb9a154ddcf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a7175657279" width="60" height="60" alt="jquery" data-canonical-src="https://skillicons.dev/icons?i=jquery" style="max-width: 100%;"></a>
       <br>JQuery
