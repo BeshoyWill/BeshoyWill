@@ -239,12 +239,12 @@
 
 </div>
 
-## ![Sri Lanka](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/lk.png "Sri Lanka") -- **Visitors by Country** --
-
 ## ![egypt-flag-animation](https://github.com/user-attachments/assets/a86d3255-0321-41cd-92d2-59f85c705752)
 
+  <img src="./linewave.gif" width="100%" height="5px">
 <a href="https://github.com/BeshoyWill"><img width="47%" align="left" src="https://s11.flagcounter.com/count2/hlfR/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_250/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
+  <img src="./linewave.gif" width="100%" height="5px">
 <a href="https://github.com/BeshoyWill"><img width="47%" align="right" src="https://s11.flagcounter.com/map/93Zx/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
 <br/>
