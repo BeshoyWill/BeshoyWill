@@ -252,7 +252,6 @@
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/BeshoyWill/BeshoyWill/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
 
 
-  <img src="./linewave.gif" width="100%" height="5px">
 ![git](https://user-images.githubusercontent.com/79472177/205426120-3426ca36-711a-4ad6-a064-5bcf708c84cf.jpg)
 
 
