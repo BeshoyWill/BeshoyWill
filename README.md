@@ -210,12 +210,11 @@
   <br/>  <br/>
 
   <br />
-  <img src="./linewave.gif" width="100%" height="5px">
   
 ## ![egypt-flag-animation](https://github.com/user-attachments/assets/a86d3255-0321-41cd-92d2-59f85c705752)
 
   <img src="./linewave.gif" width="100%" height="5px">
-<br />
+<br /> <br />
 
 ![git](https://user-images.githubusercontent.com/79472177/205426120-3426ca36-711a-4ad6-a064-5bcf708c84cf.jpg)
 
