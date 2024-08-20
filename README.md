@@ -218,12 +218,6 @@
 
 ![git](https://user-images.githubusercontent.com/79472177/205426120-3426ca36-711a-4ad6-a064-5bcf708c84cf.jpg)
 
-
-  <img src="./linewave.gif" width="100%" height="5px">
-
-<br />
-
-
 <p align="center"> 
   Visitors Count<br>
   
@@ -233,6 +227,10 @@
 <p align="center"> 
   Thanks for Visiting...! :heart:
 </p>
+
+  <img src="./linewave.gif" width="100%" height="5px">
+
+<br /><br />
 
 
 <div align="center">
