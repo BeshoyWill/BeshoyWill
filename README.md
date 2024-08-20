@@ -246,14 +246,7 @@
 
   <img src="./linewave.gif" width="100%" height="5px">
 <br><br>
-  
-<a href="https://github.com/BeshoyWill"><img width="47%" align="left" src="https://s11.flagcounter.com/count2/hlfR/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_250/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
-<a href="https://github.com/BeshoyWill"><img width="47%" align="right" src="https://s11.flagcounter.com/map/93Zx/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
-
-<br/>
-  
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/BeshoyWill/BeshoyWill/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
 
 
   <img src="./linewave.gif" width="100%" height="5px">
