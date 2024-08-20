@@ -193,11 +193,11 @@
   <table align="center" border="0" cellpadding="0" cellspacing="0">
       <thead>
           <tr>
-            <td><img src="https://github-readme-stats.vercel.app/api?username=BeshoyWill&show_icons=true&locale=en&theme=tokyonight" alt="Beshoy's GitHub Stats" />               </td>
+            <td><img src="https://github-readme-stats.vercel.app/api?username=BeshoyWill&show_icons=true&locale=en&theme=tokyonight" alt="Beshoy's GitHub Stats" /></td>
             <td><img src="https://streak-stats.demolab.com/?user=BeshoyWill&theme=tokyonight" alt="Beshoy's GitHub Stats" /></td>
           </tr>
           <tr>
-              <td> <img src="https://awesome-github-stats.azurewebsites.net/user-stats/BeshoyWill?theme=buefy">             </td>
+              <td> <img src="https://awesome-github-stats.azurewebsites.net/user-stats/BeshoyWill?theme=buefy"></td>
               <td>
               <a href="https://github.com/BeshoyWill">
           <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=BeshoyWill&show_icons=true&theme=github_dark&langs_count=8&layout=compact&hide_border=true"/> 
@@ -219,12 +219,16 @@
 ![git](https://user-images.githubusercontent.com/79472177/205426120-3426ca36-711a-4ad6-a064-5bcf708c84cf.jpg)
 
 <p align="center"> 
-  Visitors Count<br>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=30&duration=1&pause=5000&color=5CFF71&center=true&vCenter=true&width=970&lines=Visitors Count" alt="Typing SVG"/>
+  <br /><br />
   
   <img src="https://profile-counter.glitch.me/BeshoyWill/count.svg" />
 </p>
   
 <p align="center"> 
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=20&duration=1&pause=5000&color=5CFF71&center=true&vCenter=true&width=970&lines=Thanks for Visiting...! :heart:" alt="Typing SVG"/>
   Thanks for Visiting...! :heart:
 </p>
 
