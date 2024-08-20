@@ -227,8 +227,8 @@
 </p>
   
 <p align="center"> 
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=20&duration=1&pause=5000&color=fbff00&center=true&vCenter=true&width=970&lines=Thanks for Visiting!':heart:'" alt="Typing SVG"/>
+  ':heart:'
+  <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=20&duration=1&pause=5000&color=fbff00&center=true&vCenter=true&width=970&lines=Thanks for Visiting!" alt="Typing SVG"/>
 </p>
 
   <img src="./linewave.gif" width="100%" height="5px">
