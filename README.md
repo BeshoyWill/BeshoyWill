@@ -35,7 +35,7 @@
 
 
 <hr>
-    <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=33&duration=1&pause=5000&color=5CFF71&center=true&vCenter=true&width=970&lines=TECK STACK" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=33&duration=1&pause=5000&color=5CFF71&center=true&vCenter=true&width=970&lines=MY FAVOURITE SKILLS" alt="Typing SVG"/>
 <hr>
 
 <br/>  <br/>
@@ -52,20 +52,24 @@
     </td>
               <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="60" height="60" alt="Vue" style="max-width: 100%;"></a>
-      <br>.NET
-  </td>        
-          <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/533eb0313af568d57d5bd22dea49ab0264b4dda628cfa7aa9a76991bcc8c122e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d646f746e6574"><img src="https://camo.githubusercontent.com/533eb0313af568d57d5bd22dea49ab0264b4dda628cfa7aa9a76991bcc8c122e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d646f746e6574" width="60" height="60" alt="ASP.NET Core" data-canonical-src="https://skillicons.dev/icons?i=dotnet" style="max-width: 100%;"></a>
       <br>ASP.NET
-    </td>
+  </td>        
+          
+  <td align="center" width="96"> 
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
+    <br>Git
+  </td>
           <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9fcd23b962db5fdfc4be49d1daedc6bbbfdcc0cca4cc25792a4be616b8bd56e6/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667"><img src="https://camo.githubusercontent.com/9fcd23b962db5fdfc4be49d1daedc6bbbfdcc0cca4cc25792a4be616b8bd56e6/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667" width="60" height="60" alt="Rest API" data-canonical-src="https://techstack-generator.vercel.app/restapi-icon.svg" style="max-width: 100%;"></a>
       <br>Rest API
     </td> 
         
+  
   <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
-    <br>PostgreSQL
+    <a href="https://www.python.org/">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+    </a>
+    <br>Python
   </td>
   </tr>
     <tr>
