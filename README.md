@@ -260,12 +260,15 @@
 
 </div>
 
+<br /><br />
+  <img src="./linewave.gif" width="100%" height="5px">
+  
+
   <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=33&duration=1&pause=5000&color=5CFF71&center=true&vCenter=true&width=970&lines=A Classic Chess" alt="Typing SVG"/>
-<h3 align="center">A classic Chess</h3>
 <p align="center">
   <img width="256" src="https://o.charles-chrismann.fr/board.png" />
 </p>
-<p align="center">It's Black's turn</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=33&duration=1&pause=5000&color=FFFFFF&center=true&vCenter=true&width=970&lines=It's Black's Turn" alt="Typing SVG"/>
 <table align="center">
   <tbody>
     <tr>
