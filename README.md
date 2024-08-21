@@ -35,15 +35,16 @@
 
 
 <hr>
-    <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=33&duration=1&pause=5000&color=5CFF71&center=true&vCenter=true&width=970&lines=My Favourite Skills" alt="Typing SVG"/>
-    <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=33&duration=1&pause=5000&color=5CFF71&center=true&vCenter=true&width=970&lines=(>> Comming Soon <<)" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=33&duration=1&pause=5000&color=5CFF71&center=true&vCenter=true&width=970&lines=TECK STACK" alt="Typing SVG"/>
 <hr>
 
 <br/>  <br/>
 
  <markdown-accessiblity-table><table>
   <tbody>
-   <th align="center">🅣🅔🅒🅗 🅢🅣🅐🅒🅚</th>
+    <tr>
+       <th align="center" colspan="5">🅣🅔🅒🅗 🅢🅣🅐🅒🅚</th>
+    </tr>
     <tr>
         <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ca8676621360fbaf31b9aca54d45d5e19e1695ca8247bbb216eaeb81ea05cd85/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667"><img src="https://camo.githubusercontent.com/ca8676621360fbaf31b9aca54d45d5e19e1695ca8247bbb216eaeb81ea05cd85/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667" alt="icon" width="60" width="60" style="max-width: 100%;" data-canonical-src="https://techstack-generator.vercel.app/csharp-icon.svg"></a>
