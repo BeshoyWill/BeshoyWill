@@ -22,9 +22,9 @@
 
 <div align="center">
   
-  <a target="_blank">
+  <a href="https://github.com/BeshoyWill/BeshoyWill" target="_blank">
 
-  <img src="https://github.com/BeshoyWill/BeshoyWill/blob/master/globe.gif" width="40" height="40" />
+  <img src="https://github.com/BeshoyWill/BeshoyWill/blob/master/globe.gif?raw=true" width="40" height="40" />
   </a>
 
   
