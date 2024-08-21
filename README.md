@@ -22,6 +22,10 @@
 
 <div align="center">
   
+  <a target="_blank">
+  ![globe](https://github.com/user-attachments/assets/d12b0670-2682-45f8-925c-cda1fbe52931)
+  </a>
+  
   # About Me 
   
   <ul style="list-style-type: none; line-height: 25px; padding-top: 20px; padding-left: 0;">
