@@ -277,9 +277,4 @@
 
 ![snake gif](https://github.com/BeshoyWill/BeshoyWill/blob/output/github-contribution-grid-snake-dark_green.svg)
 
-<p align="center">
-    <a href="https://github.com/jrohitofficial/jrohitofficial">
-        <img src="https://github-profile-trophy.vercel.app/?username=jrohitofficial&column=-1&theme=dracula&layout=compact"width="95%"/> 
-</p>
-
 </div>
