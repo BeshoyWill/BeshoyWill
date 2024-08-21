@@ -432,7 +432,7 @@
   </tbody>
 </table>
 <h3 align="center">
-<a href="https://o.charles-chrismann.fr/chess/new">Reset Game</a>
+<a href="https://github.com/BeshoyWill/BeshoyWill/#a-classic-chess">Reset Game</a>
 </h3>
 
 <hr>
