@@ -23,8 +23,10 @@
 <div align="center">
   
   <a target="_blank">
-  ![globe](https://github.com/user-attachments/assets/d12b0670-2682-45f8-925c-cda1fbe52931)
+
+  <img src="https://github.com/BeshoyWill/BeshoyWill/blob/master/globe.gif?raw=true" alt="Azure" width="40" height="40" />
   </a>
+
   
   # About Me 
   
