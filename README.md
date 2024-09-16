@@ -99,7 +99,7 @@
       <br>React
     </td>
     <td align="center" width="96">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/443891d821db7f31d3f6a2ecff95170e1d8fbb8f3560466c18764f7f136e9d3f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d617a757265"><img src="https://camo.githubusercontent.com/443891d821db7f31d3f6a2ecff95170e1d8fbb8f3560466c18764f7f136e9d3f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d617a757265" width="60" height="60" alt="Azure" data-canonical-src="https://skillicons.dev/icons?i=azure" style="max-width: 100%;"></a>
+      <img src="https://skillicons.dev/icons?i=azure" width="48" alt="Angular" style="max-width: 100%;">
       <br>Azure
     </td> 
    </tr>
@@ -109,7 +109,7 @@
       <br>SQL_Server
     </td>     
         <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0ac523e295393e5fb91b13ed8e2bf2cf1bc9669ef91cbe6eaab903a149213087/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573"><img src="https://camo.githubusercontent.com/0ac523e295393e5fb91b13ed8e2bf2cf1bc9669ef91cbe6eaab903a149213087/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573" width="60" height="60" alt="jquery" data-canonical-src="https://skillicons.dev/icons?i=postgres" style="max-width: 100%;"></a>
+      <img src="https://skillicons.dev/icons?i=postgresql" width="48" alt="Angular" style="max-width: 100%;">
       <br>PostgreSQL
     </td>
       <td align="center" width="96">
@@ -132,11 +132,11 @@
       <br>SASS
     </td>    
             <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4c31cabd8b3aa138d55adcf0a5415e5f71f38f4f5eb0ef7312ef675077834b8d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c"><img src="https://camo.githubusercontent.com/4c31cabd8b3aa138d55adcf0a5415e5f71f38f4f5eb0ef7312ef675077834b8d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c" width="60" height="60" alt="HTML" data-canonical-src="https://skillicons.dev/icons?i=html" style="max-width: 100%;"></a>
+      <img src="https://skillicons.dev/icons?i=html" width="48" alt="Angular" style="max-width: 100%;">
       <br>HTML
     </td>
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e531a79257b93921f8b58efa952eb049ceb2672bcf57bd666165476261c145a8/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373"><img src="https://camo.githubusercontent.com/e531a79257b93921f8b58efa952eb049ceb2672bcf57bd666165476261c145a8/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373" width="60" height="60" alt="css" data-canonical-src="https://skillicons.dev/icons?i=css" style="max-width: 100%;"></a>
+      <img src="https://skillicons.dev/icons?i=css" width="48" alt="Angular" style="max-width: 100%;">
       <br>CSS
     </td>
   <td align="center" width="96">
@@ -146,7 +146,7 @@
     <br>Angular
   </td>
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c2a1c48be1091ce6a771794bf0b3bc45b58e5ce1531810e48cea88a7bae4c121/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170"><img src="https://camo.githubusercontent.com/c2a1c48be1091ce6a771794bf0b3bc45b58e5ce1531810e48cea88a7bae4c121/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170" width="60" height="60" alt="bootstrap" data-canonical-src="https://skillicons.dev/icons?i=bootstrap" style="max-width: 100%;"></a>
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" alt="Angular" style="max-width: 100%;">
       <br>Bootstrap
     </td>
   </tr>
