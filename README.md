@@ -21,12 +21,12 @@
   
    <!-- Portfolio Button -->
    <a href="https://beshoywill.github.io/BeshoyWilliam/" target="_blank" style="display: block; margin-bottom: 10px; text-decoration: none; ">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&color=#5CFF71" target="blank" />
+     <img src="https://img.shields.io/badge/Portfolio%20Website-F44336?style=for-the-badge&logo=google-drive&logoColor=white&color=#5CFF71" target="blank" />
    </a>
    
    <!-- CV Button -->
    <a href="https://beshoywill.github.io/CV/" target="_blank" style="display: block; text-decoration: none; ">
-     <img src="https://img.shields.io/badge/Curriculum%20Vitae-F44336?style=for-the-badge&logo=google-drive&logoColor=white&color=#5CFF71" target="blank" />
+     <img src="https://img.shields.io/badge/Curriculum vitae-F44336?style=for-the-badge&logo=google-drive&logoColor=white&color=#5CFF71" target="blank" />
    </a>
 </div>
 
