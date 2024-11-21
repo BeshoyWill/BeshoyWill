@@ -285,6 +285,19 @@
 
 </div>
 
+
+  <br /><br />
+<div align="center">
+<hr>
+  <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=33&duration=1&pause=5000&color=5CFF71&center=true&vCenter=true&width=970&lines=Watch Some Of My Projects" alt="Typing SVG"/>
+<hr>
+
+<div align="center" class="1-100">
+    <a href="https://beshoywill.github.io/AnimatedLogin/" target="_blank">
+    <img src="fotos/n1.avif" alt="foto-000-001" style="aspect-ratio: 16 / 9; width: 64px; height: 30px;">
+  </a>
+</div>
+
   <br /><br />
 <div align="center">
 <hr>
