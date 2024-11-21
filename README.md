@@ -294,7 +294,7 @@
 
 <div align="center" class="1-100">
     <a href="https://beshoywill.github.io/AnimatedLogin/" target="_blank">
-    <img src="fotos/n1.avif" alt="foto-000-001" style="aspect-ratio: 16 / 9; width: 64px; height: 30px;">
+    <img src="images/fotos/n1.avif" alt="foto-000-001" style="aspect-ratio: 16 / 9; width: 64px; height: 30px;">
   </a>
 </div>
 
