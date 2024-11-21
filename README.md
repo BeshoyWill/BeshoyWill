@@ -335,6 +335,48 @@
     <a href="https://beshoywill.github.io/Quotes-App/" target="_blank">
       <img src="fotos/n14.avif" alt="foto-000-001" style="aspect-ratio: 16 / 9; width: 64px; height: 30px;">
     </a>
+    <a href="https://beshoywill.github.io/Bookmarker/" target="_blank">
+      <img src="fotos/n15.avif" alt="foto-000-001" style="aspect-ratio: 16 / 9; width: 64px; height: 30px;">
+    </a>
+    <a href="https://beshoywill.github.io/Sign-In/" target="_blank">
+      <img src="fotos/n16.avif" alt="foto-000-001" style="aspect-ratio: 16 / 9; width: 64px; height: 30px;">
+    </a>
+    <a href="https://beshoywill.github.io/party/" target="_blank">
+      <img src="fotos/n17.avif" alt="foto-000-001" style="aspect-ratio: 16 / 9; width: 64px; height: 30px;">
+    </a>
+    <a href="https://beshoywill.github.io/Gallery/" target="_blank">
+      <img src="fotos/n18.avif" alt="foto-000-001" style="aspect-ratio: 16 / 9; width: 64px; height: 30px;">
+    </a>
+    <a href="https://beshoywill.github.io/Countries/" target="_blank">
+      <img src="fotos/n19.avif" alt="foto-000-001" style="aspect-ratio: 16 / 9; width: 64px; height: 30px;">
+    </a>
+    <a href="https://beshoywill.github.io/ONDA-Movies/" target="_blank">
+      <img src="fotos/n20.avif" alt="foto-000-001" style="aspect-ratio: 16 / 9; width: 64px; height: 30px;">
+    </a>
+    <a href="https://beshoywill.github.io/skillbridge/" target="_blank">
+      <img src="fotos/n21.avif" alt="foto-000-001" style="aspect-ratio: 16 / 9; width: 64px; height: 30px;">
+    </a>
+    <a href="https://beshoywill.github.io/Netflix/" target="_blank">
+      <img src="fotos/n22.avif" alt="foto-000-001" style="aspect-ratio: 16 / 9; width: 64px; height: 30px;">
+    </a>
+    <a href="https://beshoywill.github.io/Bookish/" target="_blank">
+      <img src="fotos/n23.avif" alt="foto-000-001" style="aspect-ratio: 16 / 9; width: 64px; height: 30px;">
+    </a>
+    <a href="https://beshoywill.github.io/Dashboard/" target="_blank">
+      <img src="fotos/n24.avif" alt="foto-000-001" style="aspect-ratio: 16 / 9; width: 64px; height: 30px;">
+    </a>
+    <a href="https://beshoywill.github.io/BeshoyWilliam/" target="_blank">
+      <img src="fotos/n25.avif" alt="foto-000-001" style="aspect-ratio: 16 / 9; width: 64px; height: 30px;">
+    </a>
+    <a href="https://beshoywill.github.io/Angular-Calculator/" target="_blank">
+      <img src="fotos/n26.avif" alt="foto-000-001" style="aspect-ratio: 16 / 9; width: 64px; height: 30px;">
+    </a>
+    <a href="https://beshoywill.github.io/monster/" target="_blank">
+      <img src="fotos/n27.avif" alt="foto-000-001" style="aspect-ratio: 16 / 9; width: 64px; height: 30px;">
+    </a>
+    <a href="https://beshoywill.github.io/CV/" target="_blank">
+      <img src="fotos/n28.avif" alt="foto-000-001" style="aspect-ratio: 16 / 9; width: 64px; height: 30px;">
+    </a>
 </div>
 
   <br /><br />
