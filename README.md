@@ -294,8 +294,47 @@
 
 <div align="center" class="1-100">
     <a href="https://beshoywill.github.io/AnimatedLogin/" target="_blank">
-    <img src="fotos/n1.avif" alt="foto-000-001" style="aspect-ratio: 16 / 9; width: 64px; height: 30px;">
-  </a>
+      <img src="fotos/n1.avif" alt="foto-000-001" style="aspect-ratio: 16 / 9; width: 64px; height: 30px;">
+    </a>
+    <a href="https://beshoywill.github.io/patrix/" target="_blank">
+      <img src="fotos/n2.avif" alt="foto-000-001" style="aspect-ratio: 16 / 9; width: 64px; height: 30px;">
+    </a>
+    <a href="https://beshoywill.github.io/Music-App/" target="_blank">
+      <img src="fotos/n3.avif" alt="foto-000-001" style="aspect-ratio: 16 / 9; width: 64px; height: 30px;">
+    </a>
+    <a href="https://beshoywill.github.io/particles-slider/" target="_blank">
+      <img src="fotos/n4.avif" alt="foto-000-001" style="aspect-ratio: 16 / 9; width: 64px; height: 30px;">
+    </a>
+    <a href="https://beshoywill.github.io/Williams/" target="_blank">
+      <img src="fotos/n5.avif" alt="foto-000-001" style="aspect-ratio: 16 / 9; width: 64px; height: 30px;">
+    </a>
+    <a href="https://beshoywill.github.io/Mealfiy/" target="_blank">
+      <img src="fotos/n6.avif" alt="foto-000-001" style="aspect-ratio: 16 / 9; width: 64px; height: 30px;">
+    </a>
+    <a href="https://beshoywill.github.io/instagram/" target="_blank">
+      <img src="fotos/n7.avif" alt="foto-000-001" style="aspect-ratio: 16 / 9; width: 64px; height: 30px;">
+    </a>
+    <a href="https://beshoywill.github.io/FreshCart/" target="_blank">
+      <img src="fotos/n8.avif" alt="foto-000-001" style="aspect-ratio: 16 / 9; width: 64px; height: 30px;">
+    </a>
+    <a href="https://beshoywill.github.io/FreeToGame/" target="_blank">
+      <img src="fotos/n9.avif" alt="foto-000-001" style="aspect-ratio: 16 / 9; width: 64px; height: 30px;">
+    </a>
+    <a href="https://beshoywill.github.io/DevFolio/" target="_blank">
+      <img src="fotos/n10.avif" alt="foto-000-001" style="aspect-ratio: 16 / 9; width: 64px; height: 30px;">
+    </a>
+    <a href="https://beshoywill.github.io/Bakery/" target="_blank">
+      <img src="fotos/n11.avif" alt="foto-000-001" style="aspect-ratio: 16 / 9; width: 64px; height: 30px;">
+    </a>
+    <a href="https://beshoywill.github.io/Yummy/" target="_blank">
+      <img src="fotos/n12.avif" alt="foto-000-001" style="aspect-ratio: 16 / 9; width: 64px; height: 30px;">
+    </a>
+    <a href="https://beshoywill.github.io/WeatherTask/" target="_blank">
+      <img src="fotos/n13.avif" alt="foto-000-001" style="aspect-ratio: 16 / 9; width: 64px; height: 30px;">
+    </a>
+    <a href="https://beshoywill.github.io/Quotes-App/" target="_blank">
+      <img src="fotos/n14.avif" alt="foto-000-001" style="aspect-ratio: 16 / 9; width: 64px; height: 30px;">
+    </a>
 </div>
 
   <br /><br />
