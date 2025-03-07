@@ -214,7 +214,7 @@
 
   <br/>  <br/>
 
-# GitHub Stats
+# GitHub Status
 
   <table align="center" border="0" cellpadding="0" cellspacing="0">
       <thead>
@@ -240,12 +240,7 @@
 ## ![egypt-flag-animation](https://github.com/user-attachments/assets/a86d3255-0321-41cd-92d2-59f85c705752)
 
   <img src="./linewave.gif" width="100%" height="5px">
-<br /> <br />
-
- 🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣
- <br />
-
-![git](https://user-images.githubusercontent.com/79472177/205426120-3426ca36-711a-4ad6-a064-5bcf708c84cf.jpg)
+<br />
 
 <p align="center"> 
 
@@ -272,7 +267,7 @@
     Contact Me
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="75" />
   </h1>
-    <a href="mailto:beshoy.eins@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  alt="Gmail"   width="40" /></a>
+    <a href="mailto:beshoy.job@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  alt="Gmail"   width="40" /></a>
     &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/beshoy-william-94775730a/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin"  alt="linkedIn"   width="40" /></a>
     &nbsp;&nbsp; 
