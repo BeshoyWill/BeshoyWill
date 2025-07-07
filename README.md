@@ -15,7 +15,7 @@
   </div>
   
   <br/>  <br/>
-  <img src="./DSUA.gif" style="height:6px;width:100vw;">
+  <img src="./DSUA.gif" style="height:20px;width:100vw;">
 
   <br/>  <br/>
   
