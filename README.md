@@ -5,11 +5,11 @@
   <br/>
   <div >
    <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=33&duration=2800&pause=2000&color=5CFF71&center=true&vCenter=true&width=970&lines=%F0%9F%91%8B+Beshoy+William+Boshra+(BWB)+%F0%9F%91%8B" alt="Typing SVG"/>
-    <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=33&duration=2800&pause=2000&color=5CFF71&center=true&vCenter=true&width=970&lines=%F0%9F%91%89+I+promise+you+will+be+happy+here+%F0%9F%92%AA%F0%9F%91%8A" align="middle" alt="Welcome, I promise you will be happy here" width="100%"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=33&duration=2800&pause=2000&color=300AF7FF1&center=true&vCenter=true&width=970&lines=%F0%9F%91%8B+Beshoy+William+Boshra+(BWB)+%F0%9F%91%8B" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=33&duration=2800&pause=2000&color=300AF7FF1&center=true&vCenter=true&width=970&lines=%F0%9F%91%89+I+promise+you+will+be+happy+here+%F0%9F%92%AA%F0%9F%91%8A" align="middle" alt="Welcome, I promise you will be happy here" width="100%"/>
   </a>
     <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=33&duration=2800&pause=2000&color=5CFF71&center=true&vCenter=true&width=970&lines=+I+am+a+FullStack+.NET+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+;I+have+1%2B+years+of+experience+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=33&duration=2800&pause=2000&color=300AF7FF1&center=true&vCenter=true&width=970&lines=+I+am+a+FullStack+.NET+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+;I+have+1%2B+years+of+experience+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG"/>
   </a>
     
   </div>
@@ -21,12 +21,12 @@
   
    <!-- Portfolio Button -->
    <a href="https://beshoywill.github.io/beshoyyoussef/" target="_blank" style="display: block; margin-bottom: 10px; text-decoration: none; ">
-     <img src="https://img.shields.io/badge/Portfolio%20Website-F44336?style=for-the-badge&logo=google-earth&logoColor=white&color=#5CFF71" target="blank" />
+     <img src="https://img.shields.io/badge/Portfolio%20Website-F44336?style=for-the-badge&logo=google-earth&logoColor=white&color=#300AF7FF1" target="blank" />
    </a>
    
    <!-- CV Button -->
    <a href="https://beshoywill.github.io/CV/" target="_blank" style="display: block; text-decoration: none; ">
-     <img src="https://img.shields.io/badge/Curriculum vitae-F44336?style=for-the-badge&logo=google-drive&logoColor=white&color=#5CFF71" target="blank" />
+     <img src="https://img.shields.io/badge/Curriculum vitae-F44336?style=for-the-badge&logo=google-drive&logoColor=white&color=#300AF7FF1" target="blank" />
    </a>
 </div>
 
@@ -51,7 +51,7 @@
 
 
 <hr>
-    <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=33&duration=1&pause=5000&color=5CFF71&center=true&vCenter=true&width=970&lines=MY+FAVOURITE+SKILLS" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=33&duration=1&pause=5000&color=300AF7FF1&center=true&vCenter=true&width=970&lines=MY+FAVOURITE+SKILLS" alt="Typing SVG"/>
 <hr>
 
 <br/>  <br/>
@@ -166,7 +166,7 @@
 <br/>  <br/>
 
 <hr>
-    <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=33&duration=1&pause=5000&color=5CFF71&center=true&vCenter=true&width=970&lines=My+Skills" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=33&duration=1&pause=5000&color=300AF7FF1&center=true&vCenter=true&width=970&lines=My+Skills" alt="Typing SVG"/>
 <hr>
 
 
@@ -251,7 +251,7 @@
 
 
   
-  <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=30&duration=1&pause=5000&color=5CFF71&center=true&vCenter=true&width=970&lines=Visitors+Count" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=30&duration=1&pause=5000&color=300AF7FF1&center=true&vCenter=true&width=970&lines=Visitors+Count" alt="Typing SVG"/>
   <br /><br />
   
   <img src="https://profile-counter.glitch.me/BeshoyWill/count.svg" />
@@ -289,7 +289,7 @@
   <br /><br />
 <div align="center">
 <hr>
-  <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=33&duration=1&pause=5000&color=5CFF71&center=true&vCenter=true&width=970&lines=Some+Of+My+Projects" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=33&duration=1&pause=5000&color=300AF7FF1&center=true&vCenter=true&width=970&lines=Some+Of+My+Projects" alt="Typing SVG"/>
 <hr>
 
 <div align="center" class="1-100">
@@ -382,7 +382,7 @@
   <br /><br />
 <div align="center">
 <hr>
-  <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=33&duration=1&pause=5000&color=5CFF71&center=true&vCenter=true&width=970&lines=Watch+The+Snake+Eating+My+Contribution+Graph" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Kaushan&size=33&duration=1&pause=5000&color=300AF7FF1&center=true&vCenter=true&width=970&lines=Watch+The+Snake+Eating+My+Contribution+Graph" alt="Typing SVG"/>
 <hr>
 
 ![snake gif](https://github.com/BeshoyWill/BeshoyWill/blob/output/github-contribution-grid-snake-dark_green.svg)
