@@ -15,8 +15,7 @@
   </div>
   
   <br/>  <br/>
-  <img src="./linewave.gif" style="height:6px;width:100vw;">
-![DSUA](https://github.com/user-attachments/assets/38e7dd93-97b4-4a08-88af-42c3516f51de)
+  <img src="./DSUA.gif" style="height:6px;width:100vw;">
 
   <br/>  <br/>
   
