@@ -239,7 +239,7 @@
   
 ## ![egypt-flag-animation](https://github.com/user-attachments/assets/a86d3255-0321-41cd-92d2-59f85c705752)
 
-  <img src="./wave.gif" style="height:10vw;width:100vw;">
+  <img src="./wave.gif" style="height:5vw;width:100vw;">
 <br /> <br />
 
  🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣
