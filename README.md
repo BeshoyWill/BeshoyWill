@@ -242,9 +242,6 @@
   <img src="./wave.gif" style="height:4vw;width:120vw;">
 <br /> <br />
 
- 🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣
-<br />
-
 ![git](https://user-images.githubusercontent.com/79472177/205426120-3426ca36-711a-4ad6-a064-5bcf708c84cf.jpg)
 
 <p align="center"> 
@@ -256,10 +253,6 @@
   
   <img src="https://profile-counter.glitch.me/BeshoyWill/count.svg" />
 </p>
-
-<br />
-<img height="30" style="fill: #0056b3" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg" />
-<br />
 
   <img src="./wave.gif" style="height:4vw;width:100vw;">
 
