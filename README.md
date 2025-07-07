@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=33&duration=2800&pause=2000&color=5CFF71&center=true&vCenter=true&width=970&lines=%F0%9F%91%89+I+promise+you+will+be+happy+here+%F0%9F%92%AA%F0%9F%91%8A" align="middle" alt="Welcome, I promise you will be happy here" width="100%"/>
   </a>
     <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=33&duration=2800&pause=2000&color=5CFF71&center=true&vCenter=true&width=970&lines=+I+am+a+FullStack+.NET+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+;I+have+1%2B+years+of+experience+%F0%9F%93%88" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=33&duration=2800&pause=2000&color=5CFF71&center=true&vCenter=true&width=970&lines=+I+am+a+FullStack+.NET+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+;%F0%9F%91%86+I+have+1%2B+years+of+experience+%F0%9F%93%88" alt="Typing SVG"/>
   </a>
     
   </div>
