@@ -239,7 +239,7 @@
   
 ## ![egypt-flag-animation](https://github.com/user-attachments/assets/a86d3255-0321-41cd-92d2-59f85c705752)
 
-  <img src="./w.gif" style="height:1vw;width:120vw;">
+  <img src="./wave.gif" style="height:4vw;width:120vw;">
 <br /> <br />
 
  🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣
@@ -261,7 +261,7 @@
 <img height="30" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg" />
 <br />
 
-  <img src="./linewave.gif" style="height:6px;width:100vw;">
+  <img src="./wave.gif" style="height:4vw;width:100vw;">
 
 <br /><br />
 
