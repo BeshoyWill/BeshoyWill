@@ -15,7 +15,7 @@
   </div>
   
   <br/>  <br/>
-  <img src="./linewave.gif" width="100%" height="10%">
+  <img src="./linewave.gif" style="height:10px;width:100%;">
 
   <br/>  <br/>
   
