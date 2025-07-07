@@ -21,7 +21,7 @@
   
    <!-- Portfolio Button -->
    <a href="https://beshoywill.github.io/beshoyyoussef/" target="_blank" style="display: block; margin-bottom: 10px; text-decoration: none; ">
-     <img src="https://img.shields.io/badge/Portfolio%20Website-F44336?style=for-the-badge&logo=google-earth&logoColor=white&color=#300AF7FF" target="blank" />
+     <img src="https://img.shields.io/badge/Portfolio%20Website-300AF7FF?style=for-the-badge&logo=google-earth&logoColor=white&color=#300AF7FF" target="blank" />
    </a>
    
    <!-- CV Button -->
