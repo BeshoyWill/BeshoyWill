@@ -26,7 +26,7 @@
    
    <!-- CV Button -->
    <a href="https://beshoywill.github.io/CV/" target="_blank" style="display: block; text-decoration: none; ">
-     <img src="https://img.shields.io/badge/Curriculum vitae-F44336?style=for-the-badge&logo=google-drive&logoColor=#300AF7FF&color=#300AF7FF" target="blank" />
+     <img src="https://img.shields.io/badge/Curriculum vitae-F44336?style=for-the-badge&logo=google-drive&logoColor=#300AF7FF&color=black" target="blank" />
    </a>
 </div>
 
